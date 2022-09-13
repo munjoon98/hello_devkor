@@ -23,10 +23,9 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599c?style=flat&logo=c%2b%2b&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/C-a8b9cc?style=flat&logo=c&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Java-e12828?style=flat&logo=c&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=c&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4479a1?style=flat&logo=MySQL&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Verilog-0063dc?style=flat&logo=c%2b%2b&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat&logo=MySQL&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/><br>
 </p>
 
